@@ -11,10 +11,6 @@ struct ContentView: View {
     @State var redSliderValue = 0.0
     @State var greenSliderValue = 0.0
     @State var blueSliderValue = 0.0
-  
-    @State var redTfText = ""
-    @State var greenTfText = ""
-    @State var blueTfText = ""
     
     @State var alertPresented = false
     
